@@ -41,8 +41,8 @@
             android:paddingEnd="5dp"
             android:shadowColor="@color/black"
             android:textColor="@color/white"
-            android:shadowDx="0dp"
-            android:shadowDy="0dp"
+            android:shadowDx="0"
+            android:shadowDy="0"
             android:shadowRadius="15"
             android:textSize="25sp"
             android:textStyle="bold" />
@@ -56,8 +56,8 @@
             android:paddingEnd="5dp"
             android:shadowColor="@color/black"
             android:textColor="@color/white"
-            android:shadowDx="0dp"
-            android:shadowDy="0dp"
+            android:shadowDx="0"
+            android:shadowDy="0"
             android:shadowRadius="15"
             android:textSize="12sp"
             android:textStyle="bold" />
